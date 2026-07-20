@@ -1,0 +1,46 @@
+# Optional packages after base install
+# Install selectively with: paru -S $(grep -v '^#' packages-post-install.txt | tr '\n' ' ')
+
+# Browsers / mail
+firefox
+icecat
+betterbird
+
+# Themes / icons / cursors
+arc-gtk-theme
+arc-icon-theme
+sardi-icons
+bibata-cursor-theme
+
+# XFCE extras
+xfce4-whiskermenu-plugin
+xfce4-clipman-plugin
+xfce4-screenshooter
+xfce4-taskmanager
+mousepad
+ristretto
+catfish
+
+# Utilities
+htop
+btop
+neofetch
+fastfetch
+timeshift
+gparted
+pavucontrol
+network-manager-applet
+blueman
+file-roller
+xarchiver
+
+# Fonts
+noto-fonts
+noto-fonts-cjk
+noto-fonts-emoji
+ttf-dejavu
+ttf-liberation
+
+# Optional AUR / repo
+# archlinux-tweak-tool-git
+# variety
