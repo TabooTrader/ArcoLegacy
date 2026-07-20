@@ -1,0 +1,44 @@
+# Minimal daily driver set for bigf machines
+# Assumes base system + XFCE already present
+
+# Core comfort
+paru
+git
+base-devel
+fastfetch
+htop
+btop
+nano
+vim
+
+# Network / audio controls
+network-manager-applet
+pavucontrol
+blueman
+
+# Browser / mail
+firefox
+betterbird
+
+# Files / archives
+thunar
+file-roller
+gvfs
+tumbler
+
+# Theme basics
+arc-gtk-theme
+bibata-cursor-theme
+noto-fonts
+noto-fonts-emoji
+
+# Backup / disks
+timeshift
+gparted
+exfatprogs
+ntfs-3g
+
+# Optional later
+# icecat
+# variety
+# archlinux-tweak-tool (classic via att-old)
