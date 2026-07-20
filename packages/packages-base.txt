@@ -1,0 +1,46 @@
+# ARCOTIX / ArcoLegacy base package list
+# Regular linux kernel (not zen)
+# Light, XFCE-focused, PipeWire audio
+
+base
+linux
+linux-headers
+linux-firmware
+linux-firmware-amdgpu
+amd-ucode
+base-devel
+git
+sudo
+nano
+vim
+zsh
+
+# Display / Desktop
+xlibre-meta
+xfce4
+xfce4-goodies
+sddm
+thunar
+gvfs
+tumbler
+
+# Boot
+grub
+efibootmgr
+
+# Network / Audio
+networkmanager
+pipewire
+pipewire-alsa
+pipewire-pulse
+pipewire-jack
+wireplumber
+bluez
+bluez-utils
+
+# Tools
+fastfetch
+reflector
+exfatprogs
+ntfs-3g
+paru
